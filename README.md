@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Miguel Sanchez
 - 👀 I’m interested in creating freedom
 - 🌱 I’m currently learning Blockchain & Artificial intelligence
-- 💞️ I’m looking to collaborate on Defi
-- 📫 How to reach me Tweet @msanchezworld
+- 💞️ I’m looking to collaborate on Aave Defi
+- 📫 Tweet me @msanchezworld
 
 <!---
 MSanchezWorld/MSanchezWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
