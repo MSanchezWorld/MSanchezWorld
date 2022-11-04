@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSanchezWorld
+- 👋 Hi, I’m Miguel Sanchez
 - 👀 I’m interested in creating freedom
 - 🌱 I’m currently learning Blockchain & Artificial intelligence
 - 💞️ I’m looking to collaborate on Defi
