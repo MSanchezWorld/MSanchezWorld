@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Sanchez
 - 👀 I’m interested in creating freedom
-- 🌱 I’m currently learning Blockchain & Artificial intelligence
+- 🌱 I’m currently learning Blockchain, Artificial intelligence & Generative Art
 - 💞️ I’m looking to collaborate on Aave Defi
 - 📫 Tweet me @msanchezworld
 
