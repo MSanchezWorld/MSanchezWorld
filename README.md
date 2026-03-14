@@ -25,12 +25,16 @@ AI systems that build automated production pipelines for storytelling, social me
 **Mass Ideation**  
 An innovation lab building tools that help people and companies take advantage of artificial intelligence.
 
+📺 I build many of these tools **live on YouTube**, documenting experiments with AI agents, media systems, and decentralized finance.
+
+Subscribe to follow along as I build:  
+YouTube → https://youtube.com/@msanchezworld
+
 🌍 Interested in:
 - AI agent economies
 - decentralized ownership
 - open financial systems
-- autonomous financial infrastructure
-- AI media systems
+- autonomous finance
 
 🤝 Open to collaboration on:
 - AI × DeFi
