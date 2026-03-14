@@ -27,8 +27,8 @@ An innovation lab building tools that help people and companies take advantage o
 
 📺 I build many of these tools **live on YouTube**, documenting experiments with AI agents, media systems, and decentralized finance.
 
-Subscribe to follow along as I build:  
-YouTube → https://youtube.com/@msanchezworld
+Subscribe and follow the journey:  
+YouTube → https://www.youtube.com/@MiguelSanchezWorld
 
 🌍 Interested in:
 - AI agent economies
