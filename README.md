@@ -1,26 +1,27 @@
 👋 Hi, I’m Miguel Sanchez
 
-🚀 I build tools that help people turn everyday cash flow into long-term wealth.
+🌍 I build tools that help humanity benefit from artificial intelligence.
 
-🧠 Currently building at the intersection of:
-- AI Agents
-- Decentralized Finance (DeFi)
-- Automated Bitcoin & Ethereum treasury systems
-- On-chain financial infrastructure
+🚀 Currently building at the intersection of:
 
-🛠 Founder of Stackit.ai  
-Software that helps investors and business owners use their money twice —  
-growing crypto assets while borrowing against them.
+* Artificial Intelligence
+* Decentralized Finance
+* Autonomous systems and AI agents
+* Open financial infrastructure
 
-🌍 Interested in:
-- AI agent economies
-- Decentralized ownership
-- Open financial systems that expand economic freedom
+🛠 Founder of Stackit.ai
+Stack helps people around the world grow Bitcoin and Ethereum while borrowing against their assets — allowing them to use their money twice.
+
+🧠 I’m interested in:
+
+* AI agents and autonomous economies
+* Systems that expand economic freedom
+* Tools that help people benefit from technological progress
 
 🤝 Open to collaboration on:
-- AI × DeFi
-- Agent treasuries
-- On-chain automation
-- Crypto infrastructure
+
+* AI × DeFi
+* AI agent infrastructure
+* Open-source tools that empower people globally
 
 📫 Connect with me on X: @msanchezworld
