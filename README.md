@@ -4,24 +4,44 @@
 
 🚀 Currently building at the intersection of:
 
-* Artificial Intelligence
-* Decentralized Finance
-* Autonomous systems and AI agents
-* Open financial infrastructure
+Artificial Intelligence
+
+AI Agents
+
+Decentralized Finance
+
+Autonomous financial infrastructure
 
 🛠 Founder of Stackit.ai
-Stack helps people around the world grow Bitcoin and Ethereum while borrowing against their assets — allowing them to use their money twice.
 
-🧠 I’m interested in:
+Stack is an AI agent treasury system that helps:
 
-* AI agents and autonomous economies
-* Systems that expand economic freedom
-* Tools that help people benefit from technological progress
+Individuals
+
+Businesses
+
+AI agents
+
+grow Bitcoin and Ethereum while borrowing against their assets without being liquidated.
+
+The goal is to create financial systems where capital can grow while still being used — allowing people to use their money twice.
+
+🧠 I'm interested in:
+
+AI agent economies
+
+Autonomous finance
+
+Decentralized ownership
+
+Tools that expand economic freedom
 
 🤝 Open to collaboration on:
 
-* AI × DeFi
-* AI agent infrastructure
-* Open-source tools that empower people globally
+AI × DeFi
+
+AI agent infrastructure
+
+Open financial systems
 
 📫 Connect with me on X: @msanchezworld
