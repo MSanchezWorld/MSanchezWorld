@@ -1,10 +1,26 @@
-- 👋 Hi, I’m Miguel Sanchez
-- 👀 I’m interested in creating freedom
-- 🌱 I’m currently learning Decentralized Finance, Artificial intelligence & Generative Art
-- 💞️ I’m looking to collaborate on Defi x Ai
-- 📫 Tweet me @msanchezworld
+👋 Hi, I’m Miguel Sanchez
 
-<!---
-MSanchezWorld/MSanchezWorld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I build tools that help people turn everyday cash flow into long-term wealth.
+
+🧠 Currently building at the intersection of:
+- AI Agents
+- Decentralized Finance (DeFi)
+- Automated Bitcoin & Ethereum treasury systems
+- On-chain financial infrastructure
+
+🛠 Founder of Stackit.ai  
+Software that helps investors and business owners use their money twice —  
+growing crypto assets while borrowing against them.
+
+🌍 Interested in:
+- AI agent economies
+- Decentralized ownership
+- Open financial systems that expand economic freedom
+
+🤝 Open to collaboration on:
+- AI × DeFi
+- Agent treasuries
+- On-chain automation
+- Crypto infrastructure
+
+📫 Connect with me on X: @msanchezworld
